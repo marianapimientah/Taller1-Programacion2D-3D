@@ -1,0 +1,15 @@
+C:\Users\maria\Taller1PimientaMariana\bin\Debug\net7.0\Taller1PimientaMariana.exe
+C:\Users\maria\Taller1PimientaMariana\bin\Debug\net7.0\Taller1PimientaMariana.deps.json
+C:\Users\maria\Taller1PimientaMariana\bin\Debug\net7.0\Taller1PimientaMariana.runtimeconfig.json
+C:\Users\maria\Taller1PimientaMariana\bin\Debug\net7.0\Taller1PimientaMariana.dll
+C:\Users\maria\Taller1PimientaMariana\bin\Debug\net7.0\Taller1PimientaMariana.pdb
+C:\Users\maria\Taller1PimientaMariana\obj\Debug\net7.0\Taller1PimientaMariana.csproj.AssemblyReference.cache
+C:\Users\maria\Taller1PimientaMariana\obj\Debug\net7.0\Taller1PimientaMariana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Taller1PimientaMariana\obj\Debug\net7.0\Taller1PimientaMariana.AssemblyInfoInputs.cache
+C:\Users\maria\Taller1PimientaMariana\obj\Debug\net7.0\Taller1PimientaMariana.AssemblyInfo.cs
+C:\Users\maria\Taller1PimientaMariana\obj\Debug\net7.0\Taller1PimientaMariana.csproj.CoreCompileInputs.cache
+C:\Users\maria\Taller1PimientaMariana\obj\Debug\net7.0\Taller1PimientaMariana.dll
+C:\Users\maria\Taller1PimientaMariana\obj\Debug\net7.0\refint\Taller1PimientaMariana.dll
+C:\Users\maria\Taller1PimientaMariana\obj\Debug\net7.0\Taller1PimientaMariana.pdb
+C:\Users\maria\Taller1PimientaMariana\obj\Debug\net7.0\Taller1PimientaMariana.genruntimeconfig.cache
+C:\Users\maria\Taller1PimientaMariana\obj\Debug\net7.0\ref\Taller1PimientaMariana.dll
