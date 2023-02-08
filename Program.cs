@@ -4,6 +4,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Text;
 
+//Realizado por Mariana Pimienta Hernandez - Ingeniería de Software 12A
 namespace TallerArrays
 {
     class Program
